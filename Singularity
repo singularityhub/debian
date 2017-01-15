@@ -1,2 +1,2 @@
 Bootstrap:docker
-From:debian:latest
+From:debian:jessie
