@@ -1,2 +1,2 @@
 Bootstrap:docker
-From:debian:jessie
+From:debian:sid
