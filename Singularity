@@ -1,2 +1,2 @@
-Bootstrap:docker
-From:debian:sid
+Bootstrap: docker
+From: debian:sid
